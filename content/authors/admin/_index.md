@@ -44,9 +44,8 @@ education:
     date_end: 2024-08-19
     summary: |
       Thesis on neural logic of attention allocation on sensory processing. Supervised by [Prof C. Ron Yu](https://research.stowers.org/yulab/).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+  
+
   - area: BTech Biological sciences and bioengineering
     institution: Indian Institute of Technology
     date_start: 2013-07-01
