@@ -11,7 +11,7 @@ last_name: Garg
 
 # Status emoji
 status:
-  icon: 
+  icon: null
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,9 +19,9 @@ superuser: true
 # Role/position/tagline
 role: Neuroscientist
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Stowers Institute for Medical Reasearch
+  - name: Stowers Institute for Medical Research
     url: https://www.stowers.org/
 
 # Social network links
@@ -30,7 +30,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:rahulgargiitk@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/twitter
     url: https://twitter.com/Rahulg2128
   - icon: brands/github
     url: https://github.com/rg2128
@@ -42,15 +42,14 @@ education:
     institution: Stowers Institute for Medical Research
     date_start: 2017-08-10
     date_end: 2024-08-19
-    summary: |
+    summary: >
       Thesis on neural logic of attention allocation on sensory processing. Supervised by [Prof C. Ron Yu](https://research.stowers.org/yulab/).
-  
 
   - area: BTech Biological sciences and bioengineering
     institution: Indian Institute of Technology
     date_start: 2013-07-01
-    date_end: 2027-05-31
-    summary: |
+    date_end: 2017-05-31
+    summary: >
       Undergraduate research work:
       - Carbon dioxide plume dynamics on mosquito host-seeking behavior
-  
+---
